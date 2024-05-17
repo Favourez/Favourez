@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... any tech projects, to test my abilities and develop them in the process
 - 📫 How to reach me ... email- nopoleflairan@gmail.com X - Nopole Flairan
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... I'm obsessed with AI right now and I'm working on the CPTS from HTB
 
 <!---
 Favourez/Favourez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
